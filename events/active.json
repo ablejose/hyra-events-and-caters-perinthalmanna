@@ -1,0 +1,44 @@
+{
+  "slug": "hyra-events-and-caters-perinthalmanna",
+  "name": "Hyra Events And Caters",
+  "shortName": "Hyra",
+  "descriptor": "Catering & Events",
+  "address": "VALIYAVEETTILPADi, Kottakkal - Perinthalmanna Rd, Perinthalmanna, Angadipuram, Keralam 679321",
+  "area": "Angadipuram",
+  "city": "Perinthalmanna",
+  "district": "Malappuram",
+  "region": "Kerala",
+  "postalCode": "679321",
+  "geo": {
+    "lat": 10.9763896,
+    "lng": 76.1842593
+  },
+  "mapsLink": "https://maps.google.com/?cid=10381321553048062357",
+  "phone": "+91 62825 28082",
+  "whatsapp": "916282528082",
+  "hours": "Open 9 am – 5 pm · all days",
+  "opens": "09:00",
+  "closes": "17:00",
+  "rating": 4.8,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "name": "Zakir Hussain",
+      "rating": 5,
+      "quote": "Natural beauty. Down town, Fresh Air"
+    },
+    {
+      "name": "Sakeer Hussain Tharayil",
+      "rating": 5,
+      "quote": "Very calm atmosphere, Natural beauty"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://hyra-events-and-caters-perinthalman.vercel.app"
+}
